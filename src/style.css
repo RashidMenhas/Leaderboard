@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 60%;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.recent-score {
+  width: 40%;
+  height: auto;
+  border: 2px solid rgb(22, 22, 21);
+  margin: 30px;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.RSR {
+  width: 60%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.table-container {
+  width: 90%;
+  height: 70%;
+  border: 2px solid rebeccapurple;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+table tr:nth-child(odd) td {
+  background-color: #fff;
+}
+
+table tr:nth-child(even) td {
+  background-color: rgb(179, 182, 184);
+}
+
+.table-container ul li {
+  list-style: none;
+  padding: 8px;
+}
+
+.add-score {
+  width: 40%;
+  height: auto;
+  border: 2px solid rgb(22, 22, 21);
+  margin: 30px;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#name {
+  width: 70%;
+  height: 40px;
+}
+
+#score {
+  width: 70%;
+  height: 40px;
+}
+
+#submit {
+  width: 80px;
+  height: 40px;
+  font-size: 15px;
+}
