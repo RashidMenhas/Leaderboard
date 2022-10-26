@@ -18,22 +18,18 @@ Competencies:
 ## Built With
 
 -Major languages
-
-- HTML
-- CSS
-- Javascript
+-  HTML
+-  CSS
+-  Javascript
 
 Technologies used
-
-- GitHub
-- Webpack
+-  GitHub
+-  Webpack
 
 ## Instuctions to set up project locally
-
-- Download zip file of the project
-- Extract folder to the hard drive
-- Opened index.html file with any modern web browser i.e. chrome
-
+ - Download zip file of the project
+ - Extract folder to the hard drive
+ - Opened index.html file with any modern web browser i.e. chrome
 ## Author
 
 #### Rashid Menhas
