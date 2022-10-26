@@ -38,9 +38,9 @@ Technologies used
 
 👤 **Rashid Menhas**
 
-- GitHub: [@keebot-png](https://github.com/RashidMenhas)
-- Twitter: [@KeenanBotes](https://twitter.com/RashidM83664789)
-- LinkedIn: [kee.bot@icloud.com](https://www.linkedin.com/in/rashid-menhas-6634aa245/)
+- GitHub: [RashidMenhas](https://github.com/RashidMenhas)
+- Twitter: [Rashid Menhas](https://twitter.com/RashidM83664789)
+- LinkedIn: [Rashid Menhas](https://www.linkedin.com/in/rashid-menhas-6634aa245/)
 
 ## 🤝 Contributing
 
