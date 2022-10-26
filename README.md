@@ -34,28 +34,26 @@ Technologies used
 - Extract folder to the hard drive
 - Opened index.html file with any modern web browser i.e. chrome
 
-## Authors
+## Author
 
-👤 **Rashid Menhas**
+#### Rashid Menhas
 
-- GitHub: [RashidMenhas](https://github.com/RashidMenhas)
-- Twitter: [Rashid Menhas](https://twitter.com/RashidM83664789)
-- LinkedIn: [Rashid Menhas](https://www.linkedin.com/in/rashid-menhas-6634aa245/)
+[GitHub](https://github.com/RashidMenhas) | [LinkedIn](https://www.linkedin.com/in/rashid-menhas-6634aa245/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/RashidMenhas/Leaderboard/issues).
 
 ## Show your support
 
-⭐️⭐️⭐️⭐️⭐
+Give a ⭐ if you like this project!
 
 ## Acknowledgments
 
-- Microverse
+> Task provided by Microverse
 
 ## 📝 License
 
-This project is [MIT](./license) licensed
+- This project is [GENERAL PUBLIC LICENSE](https://github.com/RashidMenhas/Leaderboard/blob/main/LICENSE).
