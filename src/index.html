@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LeaderBoard</title>
-    <link rel="stylesheet" href="style.css">
+    <script type="module" src="index.js"></script>
 </head>
 
 <body>
@@ -16,52 +16,20 @@
         <div class="recent-score">
             <div class="RSR">
                 <h2>Recent Score</h2>
-                <button type="button">Refresh</button>
+                <button type="button" id="refresh">Refresh</button>
             </div>
             <div class="table-container">
-                <table>
-                    <tr>
-                        <td>Rashid</td>
-                        <td>78</td>
-
-                    </tr>
-                    <tr>
-                        <td>Sami</td>
-                        <td>90</td>
-
-                    </tr>
-                    <tr>
-                        <td>Mini</td>
-                        <td>80</td>
-
-                    </tr>
-                    <tr>
-                        <td>Ali</td>
-                        <td>95</td>
-
-                    </tr>
-                    <tr>
-                        <td>Raza</td>
-                        <td>77</td>
-
-                    </tr>
-                    <tr>
-                        <td>Hisham</td>
-                        <td>100</td>
-                    </tr>
-                    <tr>
-                        <td>Menhas</td>
-                        <td>88</td>
-                    </tr>
+                <table class="table">
+                    
                 </table>
             </div>
         </div>
         <div class="add-score">
             <h2>Add Your Score</h2><br>
-            <input type="text" name="name" id="name" placeholder="Your Name"><br>
+            <input type="text" name="usre" id="user" placeholder="Your Name"><br>
             <input type="text" name="score" id="score" placeholder="Your Score"><br>
             <div>
-                <button type="button" id="submit" class="submit">Submit</button>
+                <button type="button" id="btn-submit" class="submit">Submit</button>
             </div>
         </div>
     </div>
