@@ -11,6 +11,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: rgb(177, 233, 233);
 }
 
 .container {
@@ -22,10 +23,15 @@ body {
   gap: 20px;
 }
 
+.tophead {
+  color: #8b0000;
+}
+
 .recent-score {
   width: 40%;
   height: auto;
-  border: 2px solid rgb(22, 22, 21);
+  border: 8px dotted rgb(22, 22, 21);
+  border-radius: 20px 50px 20px 50px;
   margin: 30px;
   display: inline-flex;
   flex-direction: column;
@@ -34,7 +40,7 @@ body {
 }
 
 .RSR {
-  width: 60%;
+  width: 70%;
   height: auto;
   display: flex;
   flex-direction: row;
@@ -44,10 +50,15 @@ body {
 .table-container {
   width: 90%;
   height: 70%;
-  border: 2px solid rgb(7, 7, 7);
+  border-radius: 5px;
   display: flex;
   flex-direction: column;
   margin-top: 20px;
+  padding: 10px;
+}
+
+tr {
+  border: 2px solid black;
 }
 
 table tr:nth-child(odd) td {
@@ -66,7 +77,8 @@ table tr:nth-child(even) td {
 .add-score {
   width: 40%;
   height: auto;
-  border: 2px solid rgb(22, 22, 21);
+  border: 8px dotted rgb(22, 22, 21);
+  border-radius: 50px 20px 50px 20px;
   margin: 30px;
   display: inline-flex;
   flex-direction: column;
@@ -74,18 +86,50 @@ table tr:nth-child(even) td {
   align-items: center;
 }
 
+.title {
+  color: #a03939;
+}
+
 #user {
   width: 70%;
   height: 40px;
+  border-radius: 40px;
 }
 
 #score {
   width: 70%;
   height: 40px;
+  border-radius: 40px;
 }
 
-#submit {
+.submit {
   width: 80px;
   height: 40px;
-  font-size: 15px;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+  border-radius: 5px;
+  background-color: #8a3b3b;
+  color: #fff;
+}
+
+#refresh {
+  width: 70px;
+  height: 35px;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+  border-radius: 5px;
+  background-color: #8a3b3b;
+  color: #fff;
+}
+
+.rs {
+  color: #8b0000;
 }
