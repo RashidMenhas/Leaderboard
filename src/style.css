@@ -74,7 +74,7 @@ table tr:nth-child(even) td {
   align-items: center;
 }
 
-#name {
+#user {
   width: 70%;
   height: 40px;
 }
